@@ -1,0 +1,7 @@
+
+SVM Accuracy:  0.8888889 
+
+Naïve Bayes Accuracy:  0.8290598 
+
+SVM is higher value - More Accurate 
+
